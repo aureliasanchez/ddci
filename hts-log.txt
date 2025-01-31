@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 31 Jan 2025 09:18:15 at https://vincentetdussault.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://vincentetdussault.com/ -O1 "C:\Users\Administrator\Desktop\DDCI VICENTE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:19:05	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://vincentetdussault.com/)
+09:20:29	Error: 	"Not Found" (404) at link https://vincentetdussault.com/a (from https://connect.facebook.net/en_US/fbevents.js)
+09:20:29	Error: 	"Not Found" (404) at link https://vincentetdussault.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+09:20:29	Error: 	"Not Found" (404) at link https://vincentetdussault.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+09:20:29	Error: 	"Not Found" (404) at link https://vincentetdussault.com/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+09:20:29	Error: 	"Not Found" (404) at link https://vincentetdussault.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 31 seconds : 689 links scanned, 681 files written (211977361 bytes overall) [210525608 bytes received at 466797 bytes/sec], 2528558 bytes transferred using HTTP compression in 96 files, ratio 28%, 1.0 requests per connection
+(6 errors, 0 warnings, 0 messages)
